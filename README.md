@@ -26,15 +26,7 @@ Xây dựng một hệ thống **Tổng đài IP (IP PBX)** sử dụng phần m
 
 ## 🧱 Kiến trúc hệ thống
 
-```plaintext
-SIP/IAX Clients (Zoiper, 3CX)
-          │
-    ┌─────┴─────┐
-    │  FreePBX1 │  <───>  FreePBX2 (gateway to external)
-    └───────────┘
-          │
-  PSTN / Mobile (SĐT công ty)
-```
+![Asterisk Architecture](https://github.com/Cuong312004/FreePBX/blob/main/Asterisk_Architecture.png)
 
 ## 🔧 Các chức năng nổi bật
 
@@ -85,3 +77,4 @@ SIP/IAX Clients (Zoiper, 3CX)
 ---
 
 > 🎓 Đồ án thực hiện tháng 05 năm 2025 – Trường ĐH Công Nghệ Thông Tin – ĐHQG HCM
+> Báo cáo chi tiết tại FreePBX_report.pdf
