@@ -75,15 +75,6 @@ SIP/IAX Clients (Zoiper, 3CX)
 - Tích hợp xử lý âm thanh và chatbot bằng NLP
 - Giao diện web thống kê lịch sử và phân tích cuộc gọi
 
-## 👥 Thành viên nhóm
-
-| Họ tên | MSSV | Công việc chính |
-|-------|------|-----------------|
-| **Lưu Quốc Cường** | 22520173 | Queues, Blacklist, Follow-me, Dialplan |
-| **Nguyễn Phạm Tiến Đạt** | 22520217 | Extensions, liên lạc nội bộ, họp nội bộ |
-| **Lê Minh Hoàng** | 22520463 | Gọi ra ngoài, IVR, cấu hình trunk |
-| **Bùi Minh Quân** | 22521173 | Ring group, voicemail, playback lời cảm ơn |
-
 ## 📚 Tài liệu tham khảo
 
 - Tài liệu bài giảng môn học – Trường ĐH CNTT
